@@ -8,7 +8,7 @@ I decided to follow this repository after watching a video on Youtube from "Andr
 
 To the reader of this repository: 
 
-- Please keep in mind that all the code was written by "Andrej Karpathy" and other contributors of this project. Only some modified scripts were written by me to train my own dataset, the details are mentioned in a pdf file inside of a folder called "LLMs Holiday Assignment FaustoBravo.pdf".
+- Please keep in mind that all the code was written by "Andrej Karpathy" and other contributors of this project. Only some modified scripts were written by me to train my own dataset, the details are mentioned in a pdf file attached called "LLMs Holiday Assignment FaustoBravo.pdf".
 
 - To learn about more about nanoGPT please go to the following github: https://github.com/karpathy/nanoGPT
 
